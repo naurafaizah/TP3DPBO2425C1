@@ -3,7 +3,7 @@ Naura Nur Faizah
 2408352
 Ilmu Komputer C1
 
-Saya Naura Nur Faizah dengan NIM 2408352 mengerjakan TP 2 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
+Saya Naura Nur Faizah dengan NIM 2408352 mengerjakan TP 3 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah di spesifikasikan
 
 
 # desain diagram
